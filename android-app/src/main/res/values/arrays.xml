@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- ints -->
+    <string-array name="some_ints">
+        <item>5</item>
+        <item>4</item>
+        <item>3</item>
+        <item>2</item>
+        <item>1</item>
+    </string-array>
+
+    <!-- floats -->
+    <string-array name="some_mins">
+        <item>30</item>
+        <item>60</item>
+        <item>90</item>
+        <item>120</item>
+        <item>150</item>
+    </string-array>
+
+    <!-- blah blah -->
+    <string-array name="some_temps">
+        <item>25</item>
+        <item>35</item>
+        <item>45</item>
+        <item>55</item>
+        <item>65</item>
+    </string-array>
+
+</resources>
